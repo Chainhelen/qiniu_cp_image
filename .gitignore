@@ -1,0 +1,10 @@
+*.swp
+/.qshell
+/cp_bucket_image/.qshell
+/upload_image_bat/config.js
+/upload_image_bat/config.json
+/upload_image_bat/node_modules
+/upload_image_bat/机器人男女资料包
+/import_robot/node_modules
+/import_robot/config.json
+/import_robot/config.js

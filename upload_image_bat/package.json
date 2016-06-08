@@ -1,0 +1,18 @@
+{
+  "name": "upload_image_bat",
+  "version": "1.0.0",
+  "description": "for work",
+  "main": "app.js",
+  "dependencies": {
+    "qiniu": "^6.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "gys"
+  ],
+  "author": "chainhelen",
+  "license": "MIT"
+}
